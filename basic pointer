@@ -1,0 +1,37 @@
+#include <iostream>
+
+
+#include  <stdio.h>
+
+
+int main() {
+
+    /*int x= 7;
+
+        printf(" element - x  %d \n",x);
+
+        x= 14 ;
+    printf(" element - x  %d \n",x);
+          int * aptr = &x; // adress ist &
+
+          printf("apter ist %x\n", aptr);// decimal
+          printf("x  ist    %d\n", *aptr);
+
+          *aptr  = 21; // follow the poitner ist 21
+         // printf("apter ist %d %d\n",x, *aptr);
+*/
+ int somenumbers[5];
+  int *ptr = somenumbers; // pointer to the beginn to the array
+  int v = 2 ;
+    for(;ptr<&somenumbers[5];ptr++){
+        *ptr = v;
+        v = v*2;
+    }
+    int i;
+     for(i=0; i<5;i++){
+         printf("array  ist [] %d\n",somenumbers[i]);
+
+     }
+
+    return 0;
+}
