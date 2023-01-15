@@ -36,9 +36,10 @@ Quelle,sorce = https://towardsdatascience.com/audio-deep-learning-made-simple-au
 
 ## Anleitung zur Installation und Ausführung Ihres Projekts:
 
- 1- Python  in den Rechner installieren 
- 2-  JIwer  installieren .. pip install jiwer 
- 3-  Pandas Installieren 
+ 1- Python  in den Rechner installieren <br/>
+ 2-  JIwer  installieren ..`` pip install jiwer <br/>
+ 3-  Pandas Installieren https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html <br/>
+ 4-
  
 
 
