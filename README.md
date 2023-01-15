@@ -25,6 +25,8 @@ Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit d
 2)  Der dataset wurde  von  https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2
 3) Data wurde mit Pandas Zugriffen
 4) Dataei wurde normalisiert, mit einen format von datei name, extension... etc 
+
+
 5) VOrbereitung von der variablen : Den Alphanet wurde zur integer Werte gemapt und dann in text zur datei ungewandelt.
 6)Dateset wurde  mit python getrennt zwischen Training und  Test 
 7)Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit dem muster  der Textúbersetzung trainiert.
