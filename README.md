@@ -1,6 +1,6 @@
 # AI-Projekt
 
-## PROJEKTBESCHREIBUNG:##
+## PROJEKTBESCHREIBUNG: ##
 Das Projekt  bezieht sich auf eine künstliche Intelligenz ,Die bearbeitet Audiodatei in Text.  
 Dafür haben wir mit der Programmiersprache  python  Bearbeitet, mit hilfe mit tensor flow und anderen bibliotheken .
 Wir haben anhang eines Dataset von AudioDatei einen Model trainiert . Dieses Model umwandel die Werte in dem AudioDatei in Zahlen,
