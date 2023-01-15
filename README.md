@@ -43,5 +43,5 @@ Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit d
 ## Teammitglieder:
 
 Dieutchou, Ruben Chester <br/>
-Monteagudo Subiria, Joaquin br/>
-Ngnindjeu Sonfack, Doriane Lovline br/>
+Monteagudo Subiria, Joaquin <br/>
+Ngnindjeu Sonfack, Doriane Lovline <br/>
