@@ -25,7 +25,5 @@ Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit d
 2)  Der dataset wurde  von  https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2
 3) Data wurde mit Pandas Zugriffen
 4) Dataei wurde normalisiert, mit einen format von datei name, extension... etc 
-5) VOrbereitung von der variablen :<br />
-  5.1 den Alphanet wurde zur integer Werte gemap .<br />
-  5.2 Nummern die Buchstaben  repräsentieren  werden in Buchstaben  wieder gewandelt.<br /> 
+5) VOrbereitung von der variablen :<br /> 5.1 den Alphanet wurde zur integer Werte gemap .<br /> 5.2 Nummern die Buchstaben  repräsentieren  werden in Buchstaben  wieder gewandelt.<br /> 
 6)Dateset wurde  mit python getrennt zwischen Training und  Test 
