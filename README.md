@@ -11,13 +11,13 @@ Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit d
 
 ## BIBLIOTHEKEN : ##
 
--Tensorflow war die verantwortliche Bibliothek für die Modelerzeugung 
+- Tensorflow war die verantwortliche Bibliothek für die Modelerzeugung 
 
--Pandas ist für die Dateiverwaltung zuständig 
+* Pandas ist für die Dateiverwaltung zuständig 
 
--Jiwer wird den Werkzeug für die modelevaluation  verwendet . Jiwer Vergleich den Text das den Model erzeugt mit den korrekten Text  dass kommen sollte .
+* Jiwer wird den Werkzeug für die modelevaluation  verwendet . Jiwer Vergleich den Text das den Model erzeugt mit den korrekten Text  dass kommen sollte .
 
--It computes the minimum-edit distance between the ground-truth sentence and the hypothesis sentence of a speech-to-text API. The minimum-edit distance is calculated using the Python C module Levenshtein.
+- It computes the minimum-edit distance between the ground-truth sentence and the hypothesis sentence of a speech-to-text API. The minimum-edit distance is calculated using the Python C module Levenshtein.
 
 
 ## PROJET ENTWICKLUNG: ## 
