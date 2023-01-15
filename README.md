@@ -27,5 +27,5 @@ Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit d
 4) Dataei wurde normalisiert, mit einen format von datei name, extension... etc 
 5) VOrbereitung von der variablen :<br />
   5.1 den Alphanet wurde zur integer Werte gemap .<br />
-  5.2 Nummern die Buchstaben  repräsentieren  werden in Buchstaben  wieder gewandelt. 
+  5.2 Nummern die Buchstaben  repräsentieren  werden in Buchstaben  wieder gewandelt.<br /> 
 6)Dateset wurde  mit python getrennt zwischen Training und  Test 
