@@ -20,7 +20,7 @@ Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit d
 -It computes the minimum-edit distance between the ground-truth sentence and the hypothesis sentence of a speech-to-text API. The minimum-edit distance is calculated using the Python C module Levenshtein.
 
 
-PROJET ENTWICKLUNG: 
+## PROJET ENTWICKLUNG: ## 
 1)  Die Notwendige wurden  biblbliotheken in den Python datei importiert und installiert. 
 2)  Der dataset wurde  von  https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2
 3) Data wurde mit Pandas Zugriffen
