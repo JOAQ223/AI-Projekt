@@ -1,17 +1,23 @@
 # AI-Projekt
+
+## PROJEKTBESCHREIBUNG:##
 Das Projekt  bezieht sich auf eine künstliche Intelligenz ,Die bearbeitet Audiodatei in Text.  
+Dafür haben wir mit der Programmiersprache  python  Bearbeitet, mit hilfe mit tensor flow und anderen bibliotheken .
+Wir haben anhang eines Dataset von AudioDatei einen Model trainiert . Dieses Model umwandel die Werte in dem AudioDatei in Zahlen,
+diese werte  werden auch ungekehr in Buchstaben kovertiert. Damit können wir die Audiodatei  in  Textdatei . 
+Das Model wird mit hilfe von einem Dataset trainiert. Unsere Programm wird mit dem muster  der Textúbersetzung trainiert.
 
-Dafür haben wir mit der Programmiersprache  python  Bearbeitet 
 
-TEILEN : 
 
-Tensorflow war die verantwortliche Bibliothek für die Modelerzeugung 
+## BIBLIOTHEKEN : ##
 
-Pandas ist für die Dateiverwaltung zuständig 
+-Tensorflow war die verantwortliche Bibliothek für die Modelerzeugung 
 
-Jiwer wird den Werkzeug für die modelevaluation  verwendet . Jiwer Vergleich den Text das den Model erzeugt mit den korrekten Text  dass kommen sollte .
+-Pandas ist für die Dateiverwaltung zuständig 
 
-It computes the minimum-edit distance between the ground-truth sentence and the hypothesis sentence of a speech-to-text API. The minimum-edit distance is calculated using the Python C module Levenshtein.
+-Jiwer wird den Werkzeug für die modelevaluation  verwendet . Jiwer Vergleich den Text das den Model erzeugt mit den korrekten Text  dass kommen sollte .
+
+-It computes the minimum-edit distance between the ground-truth sentence and the hypothesis sentence of a speech-to-text API. The minimum-edit distance is calculated using the Python C module Levenshtein.
 
 
 PROJET ENTWICKLUNG: 
@@ -19,8 +25,8 @@ PROJET ENTWICKLUNG:
 2)  Der dataset wurde  von  https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2
 3) Data wurde mit Pandas Zugriffen
 4) Dataei wurde normalisiert, mit einen format von datei name, extension... etc 
-5) VOrbereitung von der variablen :
-  5.1 den Alphanet wurde zur integer Werte gemap .
+5) VOrbereitung von der variablen :<br />
+  5.1 den Alphanet wurde zur integer Werte gemap .<br />
   5.2 Nummern die Buchstaben  repräsentieren  werden in Buchstaben  wieder gewandelt. 
 
 6)Dateset wurde  mit python getrennt zwischen Training und  Test 
